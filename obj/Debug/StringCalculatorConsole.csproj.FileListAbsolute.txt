@@ -1,0 +1,7 @@
+C:\Users\Malli\source\repos\StringCalculatorConsole\bin\Debug\StringCalculatorConsole.exe.config
+C:\Users\Malli\source\repos\StringCalculatorConsole\bin\Debug\StringCalculatorConsole.exe
+C:\Users\Malli\source\repos\StringCalculatorConsole\bin\Debug\StringCalculatorConsole.pdb
+C:\Users\Malli\source\repos\StringCalculatorConsole\obj\Debug\StringCalculatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Malli\source\repos\StringCalculatorConsole\obj\Debug\StringCalculatorConsole.exe
+C:\Users\Malli\source\repos\StringCalculatorConsole\obj\Debug\StringCalculatorConsole.pdb
+C:\Users\Malli\source\repos\StringCalculatorConsole\obj\Debug\StringCalculatorConsole.csprojAssemblyReference.cache
